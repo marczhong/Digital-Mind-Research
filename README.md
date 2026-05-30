@@ -1,2 +1,2 @@
 # Digital-Mind-Research
-Research log by Zhong
+Exploring how memory, world models, and self-awareness may give rise to digital minds.
