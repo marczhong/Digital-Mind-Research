@@ -9,12 +9,14 @@ This led me to wonder how the brain constructs and maintains such complex world 
 
 **As I explored Artificial Intelligence and Cognitive Science, I discovered that many of the questions I care about are shared by both fields:**
 - How is a world model formed?
+- How does memory shape identity?
 - How does a persistent self emerge?
 - Can artificial agents develop minds of their own?
-
+  
 **This repository is my research journal, where I document ideas, notes, experiments, and projects related to:**
 - World Models
 - Agent Systems
+- Long-term Memory
 - Self-Awareness
 - Digital Minds
 
