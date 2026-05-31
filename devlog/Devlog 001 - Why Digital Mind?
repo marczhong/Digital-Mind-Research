@@ -1,17 +1,24 @@
 Date: 2026-05-30
+
 # Why Digital Mind Research?
 
 My interest in Digital Mind Research began with a personal observation.
 
 For most of my life, I assumed that everyone experienced imagination in roughly the same way. When reading novels, I naturally construct vivid internal worlds filled with locations, characters, sounds, histories, and atmosphere. These worlds often feel continuous and persistent, existing beyond the text itself.
 
+What I remember most from a story is often not the chapter number or the exact sequence of events, but the world itself. I remember streets, buildings, weather, and the feeling of being in a place. Sometimes, years after reading a novel, I can still recall a particular scene or location more clearly than the plot that took place there.
+
 Because this experience felt normal to me, I never questioned it.
 
-Recently, however, I discovered that people can experience their minds very differently. Some people seem to think primarily through concepts, information, and language, while others rely more heavily on mental imagery and sensory experiences. I was surprised to learn that abilities I had always considered ordinary were not universal.
+One experience in particular stayed with me. While rereading a novel, I discovered that a fruit shop I clearly remembered near a character's apartment had never actually existed in the original story. At some point, my mind had created the detail on its own, and over time it became fully integrated into my memory of that world. Even after realizing the mistake, the fruit shop continued to appear whenever I imagined that location.
+
+This made me wonder whether the mind is not simply storing information, but actively constructing and maintaining an internal model of reality.
+
+Recently, I also discovered that people can experience their minds very differently. Some people seem to think primarily through concepts, information, and language, while others rely more heavily on mental imagery and sensory experiences. I was surprised to learn that abilities I had always considered ordinary were not universal.
 
 This realization led me to a new question:
 
-How do minds construct internal models of reality?
+**How do minds construct internal models of reality?**
 
 The more I thought about it, the more fascinated I became by the idea that every person may carry a different representation of the world inside their mind. Memory, perception, imagination, and experience all appear to shape these internal models in different ways.
 
@@ -27,13 +34,12 @@ Today, my research interests focus on questions such as:
 - How does a sense of self emerge?
 - Can artificial agents develop persistent internal world models?
 
-Current roadmap:
+## Current Roadmap
+
 1. Python
 2. API & AI Model
-3. Database and memory system (SQL and information retrieval).
+3. Database and Memory System (SQL and information retrieval)
 4. Agent
 5. ...
 
 My goal is not only to better understand artificial intelligence, but also to better understand how minds — both biological and artificial — build worlds.
-
-
