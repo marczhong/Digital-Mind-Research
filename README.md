@@ -1,7 +1,9 @@
-# Digital-Mind-Research
-Exploring how memory, world models, and self-awareness may give rise to digital minds.
+## Digital-Mind-Research
+Exploring how memory, world models, and self-awareness may give rise to digital minds. 
+This repository is a personal research journal.
 
-## Learning Roadmap
+
+## Current Roadmap
 - Python (in progress)
 - API & AI Model
 - SQL & Memory systems
@@ -10,3 +12,7 @@ Exploring how memory, world models, and self-awareness may give rise to digital 
 - World model
 - Cognitive Science (in progress)
 - Digital Minds
+
+## Contact
+Email: marczhongziqi@gmail.com
+GitHub: @marczhong
